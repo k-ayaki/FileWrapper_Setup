@@ -16,6 +16,9 @@
 ・Microsoft Wordを起動して、AppLintリボンに特許情報取得アドインに関連する以下のボタンが設定されているか確認してください。
 <img width="113" alt="button" src="https://github.com/k-ayaki/FileWrapper_Setup/assets/40140916/9be33b13-7562-4ed8-b2a4-89d0557ea926">
 
+# ４．操作画面
+・特許情報ボタン、アカウントボタン、バージョンボタンが設けられています。
+<img width="113" alt="button" src="https://github.com/k-ayaki/FileWrapper_Setup/assets/40140916/9be33b13-7562-4ed8-b2a4-89d0557ea926">
 ## ４．１．アカウントボタン
 ・アカウントボタンをクリックすると、Word画面の右側にアカウントペインが開きます。ここに、特許情報取得APIのアカウントを設定してください。なお、特許情報取得APIのアカウントは、APIを利用した特許情報の試行提供のページを参考に、特許庁に申し込んでください。
 
