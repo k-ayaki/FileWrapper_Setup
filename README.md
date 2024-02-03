@@ -32,3 +32,13 @@
 
 <img width="156" alt="patentInfo" src="https://github.com/k-ayaki/FileWrapper_Setup/assets/40140916/a6de4bc2-48dc-480a-a0c3-4e8a5dcb25c3">
 
+```
+　特願２０２０－００８４２３
+　２０２０－００８４２３
+　２０２０－８４２３
+　２０２０００８４２３
+　特願2020-008423
+　2020-008423
+　2020-8423
+　2020008423
+```
