@@ -18,10 +18,16 @@
 
 # ４．操作画面
 ・特許情報ボタン、アカウントボタン、バージョンボタンが設けられています。
+
 <img width="113" alt="button" src="https://github.com/k-ayaki/FileWrapper_Setup/assets/40140916/9be33b13-7562-4ed8-b2a4-89d0557ea926">
 ## ４．１．アカウントボタン
 ・アカウントボタンをクリックすると、Word画面の右側にアカウントペインが開きます。ここに、特許情報取得APIのアカウントを設定してください。なお、特許情報取得APIのアカウントは、APIを利用した特許情報の試行提供のページを参考に、特許庁に申し込んでください。
+<img width="159" alt="account" src="https://github.com/k-ayaki/FileWrapper_Setup/assets/40140916/ae715a4a-f1aa-4735-9451-94119850fb30">
+
 
 ## ４．２．特許情報ボタン
 ・特許情報ボタンをクリックすると、Word画面の右側に特許情報ペインが開きます。ここに出願番号を入れて、各ボタンをクリックしてください。
 ・出願番号は、以下の何れかの形式を受け付け可能です。
+
+<img width="156" alt="patentInfo" src="https://github.com/k-ayaki/FileWrapper_Setup/assets/40140916/a6de4bc2-48dc-480a-a0c3-4e8a5dcb25c3">
+
