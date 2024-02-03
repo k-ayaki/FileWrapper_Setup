@@ -14,6 +14,7 @@
 
 # ３．インストール方法
 ・Microsoft Wordを起動して、AppLintリボンに特許情報取得アドインに関連する以下のボタンが設定されているか確認してください。
+
 <img width="113" alt="button" src="https://github.com/k-ayaki/FileWrapper_Setup/assets/40140916/9be33b13-7562-4ed8-b2a4-89d0557ea926">
 
 # ４．操作画面
